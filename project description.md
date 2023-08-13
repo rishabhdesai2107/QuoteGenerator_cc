@@ -1,4 +1,4 @@
-# QuoteGenerator_cc
+d# QuoteGenerator_cc
 A Random Quote Generator is capable of pulling quotes randomly from an API, a database, or simply from an array.
 The webpage displays a random quote from a collection and upon the click of a button, it randomly generates a new quote.
 Random Quote Generator is an engaging and aesthetically pleasing web application that offers users a delightful experience of discovering random quotes from various authors, thinkers, and personalities. Created using HTML, CSS, and JavaScript, this project combines simplicity, interactivity, and visual appeal to provide a seamless and enjoyable quote exploration journey.
